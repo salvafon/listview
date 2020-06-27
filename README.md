@@ -1,4 +1,4 @@
-# Práctica & - ListView
+# Práctica 6 - ListView
 
 <br/>
 
